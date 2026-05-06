@@ -1,2 +1,2 @@
 # CodvedaLevel2tasks
-predictive modelling and churn analysis
+predictive modelling and churn classification
